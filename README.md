@@ -3,7 +3,7 @@
 A responsive landing page activity for a laundry service business,
 designed to show a responsive layout across desktop, tablet, and mobile screens.
 
-## Live Demo
+## Live Site:
 https://noreentolentino.github.io/responsive-design-activity/
  
 ## Features
